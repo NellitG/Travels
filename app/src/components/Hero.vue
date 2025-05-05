@@ -1,5 +1,5 @@
 <template>
-    <body class=" text-gray-800 font-sans">
+<body class=" text-gray-800 font-sans">
   <div class="max-w-7xl mx-auto px-4 py-12 grid md:grid-cols-2 gap-8 items-center">
     <!-- Text Section -->
     <div>
