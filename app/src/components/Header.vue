@@ -7,16 +7,16 @@
         <div class="flex items-center">
           <img class="h-8 mr-4" src="https://tailwindui.com/img/logos/158x48/tuple-logo-gray-900.svg" alt="Your Logo" width="100">
         </div>
-  
+
         <!-- Centered Navbar Links -->
-        <ul class="hidden md:flex space-x-6 absolute left-1/2 transform -translate-x-1/2">
-          <li><a href="#" class="hover:text-gray-700 font-medium text-gray-700">Destinations</a></li>
-          <li><a href="#" class="hover:text-gray-700 font-medium text-gray-700">Travel Plan</a></li>
-          <li><a href="#" class="hover:text-gray-700 font-medium text-gray-700">Inspiration</a></li>
-          <li><a href="#" class="hover:text-gray-700 font-medium text-gray-700">Shop</a></li>
-          <li><a href="#" class="hover:text-gray-700 font-medium text-gray-700">Blog</a></li>
-          </ul>
-  
+            <ul class="hidden md:flex space-x-6 absolute left-1/2 transform -translate-x-1/2">
+              <li><router-link to="/" class="hover:text-gray-700 font-medium text-gray-700">Destinations</router-link></li>
+              <li><router-link to="/travelplan" class="hover:text-gray-700 font-medium text-gray-700">Travel Plan</router-link></li>
+              <li><router-link to="/inspiration" class="hover:text-gray-700 font-medium text-gray-700">Inspiration</router-link></li>
+              <li><router-link to="/shop" class="hover:text-gray-700 font-medium text-gray-700">Shop</router-link></li>
+              <li><router-link to="/blog" class="hover:text-gray-700 font-medium text-gray-700">Blog</router-link></li>
+            </ul>
+
         <!-- Right side: Auth buttons + Hamburger -->
         <div class="flex items-center space-x-4">
           <a href="#" class="px-4 py-2 bg-white text-black rounded-lg">Sign Up</a>
