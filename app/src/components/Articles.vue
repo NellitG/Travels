@@ -6,7 +6,7 @@
         <h2 class="text-3xl md:text-4xl font-bold">Latest Stories</h2>
         <router-link
           to="/blog"
-          class="border border-black text-sm md:text-base px-4 py-2 rounded-full hover:bg-black hover:text-white transition"
+          class="border-2 text-sm md:text-base px-4 py-2 rounded-full hover:bg-orange-500 hover:text-white transition"
         >
           Read more articles
         </router-link>
