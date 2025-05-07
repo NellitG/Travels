@@ -15,7 +15,7 @@
       <div>
         <div class="mb-5 md:mb-6">
           <img
-            src="https://d22po4pjz3o32e.cloudfront.net/relume-icon.svg"
+            src="https://img.freepik.com/free-photo/full-shot-happy-people-posing-studio_23-2149243423.jpg?uid=R199204473&ga=GA1.1.196314286.1746630580&w=740"
             class="size-12"
             alt="Relume logo 1"
           />
