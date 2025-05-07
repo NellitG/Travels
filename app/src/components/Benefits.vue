@@ -57,7 +57,7 @@
       </div>
       <div>
         <img
-          src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+          src="https://img.freepik.com/free-photo/travel-concept-with-baggage_23-2149153260.jpg?uid=R199204473&ga=GA1.1.196314286.1746630580&semt=ais_hybrid&w=740"
           class="w-full object-cover"
           alt="Relume placeholder image"
         />
