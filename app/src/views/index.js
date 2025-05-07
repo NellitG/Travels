@@ -4,5 +4,6 @@ import LoginView from "./LoginView.vue";
 import PostsView from "./PostsView.vue";
 import PiniaTest from "./PiniaTest.vue";
 import TravelPlanView from "./TravelPlanView.vue";
+import InspirationView from "./InspirationView.vue";
 
-export { HomeView, DetailsView, LoginView, PostsView, PiniaTest, TravelPlanView };
+export { HomeView, DetailsView, LoginView, PostsView, PiniaTest, TravelPlanView, InspirationView };
