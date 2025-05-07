@@ -15,7 +15,7 @@
         <div class="flex w-full flex-col items-center text-center">
           <div class="rb-6 mb-6 md:mb-8">
             <img
-              src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+              src="https://img.freepik.com/free-photo/photographer-hand-holding-camera-standing-viewpoint-clouds-panorama-viewpoint-sunrise_335224-1320.jpg?ga=GA1.1.196314286.1746630580&semt=ais_hybrid&w=740"
               alt="Relume placeholder image 1"
             />
           </div>
@@ -33,7 +33,7 @@
         <div class="flex w-full flex-col items-center text-center">
   <div class="rb-6 mb-6 md:mb-8">
     <img
-      src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+      src="https://img.freepik.com/free-photo/low-angle-friends-dressed-carnival_23-2148825072.jpg?ga=GA1.1.196314286.1746630580&semt=ais_hybrid&w=740"
       alt="Relume placeholder image 2"
     />
   </div>
@@ -51,7 +51,7 @@
 <div class="flex w-full flex-col items-center text-center">
   <div class="rb-6 mb-6 md:mb-8">
     <img
-      src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image-landscape.svg"
+      src="https://img.freepik.com/free-photo/one-hiking-lifestyle-summer-yoga_1150-1002.jpg?ga=GA1.1.196314286.1746630580&w=740"
       alt="Relume placeholder image 3"
     />
   </div>
