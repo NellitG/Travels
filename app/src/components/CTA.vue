@@ -23,7 +23,7 @@
   </div>
   <div class="absolute inset-0 z-0">
     <img
-      src="https://d22po4pjz3o32e.cloudfront.net/placeholder-image.svg"
+      src="https://img.freepik.com/free-psd/isolated-plane-details_23-2151839962.jpg?uid=R199204473&ga=GA1.1.196314286.1746630580&w=740"
       class="size-full object-cover"
       alt="Relume placeholder image"
     />
