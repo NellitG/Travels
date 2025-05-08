@@ -1,5 +1,5 @@
 <template>
-    <section id="relume" class="overflow-hidden px-[5%] py-16 md:py-24 lg:py-28 mt-10">
+    <section id="relume" class="overflow-hidden px-[5%] md:py-24">
     <div class="container">
       <div
         class="rb-12 mb-12 grid grid-cols-1 items-start justify-start gap-y-8 md:mb-18 md:grid-cols-[1fr_max-content] md:items-end md:justify-between md:gap-x-12 md:gap-y-4 lg:mb-20 lg:gap-x-20"
