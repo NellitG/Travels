@@ -31,9 +31,9 @@
       </div>
       <div class="absolute inset-0 z-0" style="transform: none">
         <img
-          src="https://img.freepik.com/premium-photo/airplane-taking-off-travel-by-air-transport_105428-4496.jpg?uid=R199204473&ga=GA1.1.196314286.1746630580&w=740"
+          src="https://img.freepik.com/free-photo/beautiful-village-snow-covered-mountain_181624-4248.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&w=740"
           alt="Relume placeholder image"
-          class="size-full object-cover"
+          class="size-full object-cover "
         />
         <div class="absolute inset-0 bg-black/50"></div>
       </div>
