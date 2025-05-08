@@ -1,7 +1,7 @@
 <template>
-   <Inspire />
    <Insights />
-    
+   <Inspire />
+   
     </template>
     
     <script setup>
