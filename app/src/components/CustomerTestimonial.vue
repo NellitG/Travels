@@ -1,5 +1,5 @@
 <template>
-    <section id="relume" class="bg-orange-100 overflow-hidden px-[5%] py-16 md:py-24 lg:py-28">
+    <section id="relume" class="overflow-hidden px-[5%] py-16 md:py-24 lg:py-28 ">
     <div class="container">
       <div class="rb-12 mb-12 md:mb-18 lg:mb-20">
         <h2 class="rb-5 mb-5 text-5xl font-semibold md:mb-6 md:text-7xl lg:text-5xl">
@@ -315,7 +315,7 @@
         <div class="mt-8 flex w-full items-center justify-end gap-4 md:mt-10">
           <button
             type="button"
-            class="px-6 py-3 text-sm font-semibold text-black shadow-md transition duration-200 ease-in-out hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2"
+            class="hover:bg-orange-600 px-6 py-3 text-sm font-semibold text-black shadow-md transition duration-200 ease-in-out focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2"
           >
             Read more
           </button>
