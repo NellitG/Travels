@@ -2,10 +2,10 @@
     <section id="relume" class="bg-orange-100 overflow-hidden px-[5%] py-16 md:py-24 lg:py-28">
     <div class="container">
       <div class="rb-12 mb-12 md:mb-18 lg:mb-20">
-        <h2 class="rb-5 mb-5 text-5xl font-bold md:mb-6 md:text-7xl lg:text-8xl">
+        <h2 class="rb-5 mb-5 text-5xl font-semibold md:mb-6 md:text-7xl lg:text-5xl">
           Customer testimonials
         </h2>
-        <p class="md:text-md">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <p class="md:text-md">Get to hear experiences from our loyal Customers</p>
       </div>
       <div class="relative" role="region" aria-roledescription="carousel">
         <div>
@@ -32,7 +32,8 @@
                     <path
                       d="M21.947 9.179a1.001 1.001 0 0 0-.868-.676l-5.701-.453-2.467-5.461a.998.998 0 0 0-1.822-.001L8.622 8.05l-5.701.453a1 1 0 0 0-.619 1.713l4.213 4.107-1.49 6.452a1 1 0 0 0 1.53 1.057L12 18.202l5.445 3.63a1.001 1.001 0 0 0 1.517-1.106l-1.829-6.4 4.536-4.082c.297-.268.406-.686.278-1.065z"
                     ></path></svg
-                  ><svg
+                  >
+                  <svg
                     stroke="currentColor"
                     fill="currentColor"
                     stroke-width="0"
@@ -45,7 +46,8 @@
                     <path
                       d="M21.947 9.179a1.001 1.001 0 0 0-.868-.676l-5.701-.453-2.467-5.461a.998.998 0 0 0-1.822-.001L8.622 8.05l-5.701.453a1 1 0 0 0-.619 1.713l4.213 4.107-1.49 6.452a1 1 0 0 0 1.53 1.057L12 18.202l5.445 3.63a1.001 1.001 0 0 0 1.517-1.106l-1.829-6.4 4.536-4.082c.297-.268.406-.686.278-1.065z"
                     ></path></svg
-                  ><svg
+                  >
+                  <svg
                     stroke="currentColor"
                     fill="currentColor"
                     stroke-width="0"
@@ -58,7 +60,8 @@
                     <path
                       d="M21.947 9.179a1.001 1.001 0 0 0-.868-.676l-5.701-.453-2.467-5.461a.998.998 0 0 0-1.822-.001L8.622 8.05l-5.701.453a1 1 0 0 0-.619 1.713l4.213 4.107-1.49 6.452a1 1 0 0 0 1.53 1.057L12 18.202l5.445 3.63a1.001 1.001 0 0 0 1.517-1.106l-1.829-6.4 4.536-4.082c.297-.268.406-.686.278-1.065z"
                     ></path></svg
-                  ><svg
+                  >
+                  <svg
                     stroke="currentColor"
                     fill="currentColor"
                     stroke-width="0"
@@ -71,7 +74,8 @@
                     <path
                       d="M21.947 9.179a1.001 1.001 0 0 0-.868-.676l-5.701-.453-2.467-5.461a.998.998 0 0 0-1.822-.001L8.622 8.05l-5.701.453a1 1 0 0 0-.619 1.713l4.213 4.107-1.49 6.452a1 1 0 0 0 1.53 1.057L12 18.202l5.445 3.63a1.001 1.001 0 0 0 1.517-1.106l-1.829-6.4 4.536-4.082c.297-.268.406-.686.278-1.065z"
                     ></path></svg
-                  ><svg
+                  >
+                  <svg
                     stroke="currentColor"
                     fill="currentColor"
                     stroke-width="0"
