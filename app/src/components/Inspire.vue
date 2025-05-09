@@ -1,10 +1,11 @@
 <template>
  <section class="bg-green-50 py-12">
-  <h2 class="text-3xl font-bold text-center mb-10">Learn About Countries</h2>
+  <h2 class="text-3xl font-bold text-center mb-10">Learn Fun Facts About Countries</h2>
+  <p class="text-center text-gray-600 mb-10">Discover interesting facts about different countries around the world.</p>
   <div class="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 px-4">
     
     <!-- Country Card -->
-    <div class="bg-white rounded-3xl shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300">
+    <div class="bg-white  shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300">
       <img src="https://img.freepik.com/free-photo/empty-road-with-mountains_23-2149232171.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&semt=ais_hybrid&w=740" alt="Kenya" class="h-52 w-full object-cover">
       <div class="p-6">
         <h3 class="text-2xl font-semibold mb-2">Kenya</h3>
@@ -13,7 +14,7 @@
     </div>
 
     <!-- Country Card -->
-    <div class="bg-white rounded-3xl shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300">
+    <div class="bg-white  shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300">
       <img src="https://img.freepik.com/free-photo/empty-road-with-mountains_23-2149232171.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&semt=ais_hybrid&w=740" alt="Japan" class="h-52 w-full object-cover">
       <div class="p-6">
         <h3 class="text-2xl font-semibold mb-2">Japan</h3>
@@ -22,7 +23,7 @@
     </div>
 
     <!-- Country Card -->
-    <div class="bg-white rounded-3xl shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300">
+    <div class="bg-white  shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300">
       <img src="https://img.freepik.com/free-photo/empty-road-with-mountains_23-2149232171.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&semt=ais_hybrid&w=740" alt="Italy" class="h-52 w-full object-cover">
       <div class="p-6">
         <h3 class="text-2xl font-semibold mb-2">Italy</h3>
