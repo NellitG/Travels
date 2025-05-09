@@ -1,6 +1,6 @@
 <template>
    <Insights />
-   <!-- <Inspire /> -->
+   <Inspire />
    <CustomerTestimonial />
 
     </template>
