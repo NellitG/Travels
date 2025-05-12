@@ -26,13 +26,11 @@
       <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
         <div class="bg-gray-200 h-64 flex items-center justify-center relative">
           <span class="absolute top-2 right-2 bg-red-500 text-white text-xs px-2 py-1 rounded-full">Sale</span>
-          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
+          <img src="https://img.freepik.com/free-vector/travel-suitcase-realistic_1284-4831.jpg?ga=GA1.1.487577296.1727511220&semt=ais_hybrid&w=740" alt="Product Image" class="w-full h-full object-cover"/>
         </div>
         <div class="p-4">
           <div class="flex justify-between items-start">
-            <h3 class="font-semibold">Wireless Headphones</h3>
+            <h3 class="font-semibold">Suitcase</h3>
             <button class="text-gray-400 hover:text-red-500">
               <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
@@ -64,9 +62,7 @@
       <!-- Product Card #2 -->
       <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
         <div class="bg-gray-200 h-64 flex items-center justify-center">
-          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
+          <img src="https://img.freepik.com/free-photo/gray-duffle-bag-unisex-accessory_53876-101500.jpg?ga=GA1.1.487577296.1727511220&semt=ais_hybrid&w=740" alt="Product Image" class="w-full h-full object-cover"/>
         </div>
         <div class="p-4">
           <div class="flex justify-between items-start">
@@ -99,9 +95,7 @@
       <!-- Product Card #3 -->
       <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
         <div class="bg-gray-200 h-64 flex items-center justify-center">
-          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
+          <img src="https://img.freepik.com/free-photo/leather-boots_1203-8146.jpg?ga=GA1.1.487577296.1727511220&semt=ais_hybrid&w=740" alt="Product Image" class="w-full h-full object-cover"/>  
         </div>
         <div class="p-4">
           <div class="flex justify-between items-start">
@@ -134,9 +128,7 @@
 <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
   <div class="bg-gray-200 h-64 flex items-center justify-center relative">
     <span class="absolute top-2 left-2 bg-green-500 text-white text-xs px-2 py-1 rounded-full">New</span>
-    <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-      <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    </svg>
+    <img src="https://img.freepik.com/premium-photo/summer-vacation-walking-women-s-clothing-shirt-plant-print-short-sleeve-bermuda-shorts-sneakers-shoes-bag-hat-light-background_624178-1798.jpg?ga=GA1.1.487577296.1727511220&semt=ais_hybrid&w=740" alt="">
   </div>
   <div class="p-4">
     <div class="flex justify-between items-start">
@@ -168,9 +160,7 @@
 <!-- product Card #5 -->
 <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
         <div class="bg-gray-200 h-64 flex items-center justify-center">
-          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
+          <img src="https://img.freepik.com/free-photo/casual-men-short-pants_1203-8171.jpg?ga=GA1.1.487577296.1727511220&semt=ais_hybrid&w=740" alt="">
         </div>
         <div class="p-4">
           <div class="flex justify-between items-start">
@@ -202,9 +192,7 @@
       <!-- Product Card #6 -->
       <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
         <div class="bg-gray-200 h-64 flex items-center justify-center">
-          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
+          <img src ="https://img.freepik.com/premium-photo/pair-trekking-poles-camping-equipment-tourism-white-background_495423-42005.jpg?ga=GA1.1.487577296.1727511220&semt=ais_hybrid&w=740" alt ="">
         </div>
         <div class="p-4">
           <div class="flex justify-between items-start">
@@ -236,9 +224,7 @@
       <!-- Product Card #7 -->
       <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
         <div class="bg-gray-200 h-64 flex items-center justify-center">
-          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
+          <img src="https://img.freepik.com/free-photo/jewellery-bangle-background-with-place-text-banner-fashion-accessories_460848-13246.jpg?ga=GA1.1.487577296.1727511220&w=740" alt="">
         </div>
         <div class="p-4">
           <div class="flex justify-between items-start">
@@ -270,9 +256,7 @@
       <!-- Product Card #8 -->
       <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
         <div class="bg-gray-200 h-64 flex items-center justify-center">
-          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
+          <img src="https://img.freepik.com/free-vector/camera-accessory_1284-13130.jpg?ga=GA1.1.487577296.1727511220&semt=ais_hybrid&w=740" alt="">
         </div>
         <div class="p-4">
           <div class="flex justify-between items-start">
@@ -304,9 +288,7 @@
       <!-- Product Card #9 -->
       <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
         <div class="bg-gray-200 h-64 flex items-center justify-center">
-          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
+          <img src="https://img.freepik.com/free-photo/sunglasses_1203-7883.jpg?ga=GA1.1.487577296.1727511220&w=740" alt="">
         </div>
         <div class="p-4">
           <div class="flex justify-between items-start">
