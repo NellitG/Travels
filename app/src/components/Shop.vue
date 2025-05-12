@@ -165,6 +165,177 @@
     </div>
   </div>
 </div>
+<!-- product Card #5 -->
+<div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
+        <div class="bg-gray-200 h-64 flex items-center justify-center">
+          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="p-4">
+          <div class="flex justify-between items-start">
+            <h3 class="font-semibold">Smart Watch Pro</h3>
+            <button class="text-gray-400 hover:text-red-500">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+              </svg>
+            </button>
+          </div>
+          <div class="flex items-center mt-1">
+            <div class="flex text-yellow-400 text-sm">
+              ★★★★☆ <span class="text-gray-600 ml-2">(89)</span>
+            </div>
+          </div>
+          <p class="text-sm text-gray-600 mt-2">Fitness tracking, heart rate monitoring, and smartphone notifications</p>
+          <div class="flex items-center text-xs text-gray-500 mt-3 space-x-4">
+            <span class="flex items-center">📦 <span class="ml-1">Free Shipping</span></span>
+            <span class="flex items-center">⏳ <span class="ml-1">Low Stock</span></span>
+          </div>
+          <div class="flex justify-between items-center mt-4">
+            <span class="text-lg font-semibold">$159</span>
+            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </div>
+      <!-- Product Card #6 -->
+      <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
+        <div class="bg-gray-200 h-64 flex items-center justify-center">
+          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="p-4">
+          <div class="flex justify-between items-start">
+            <h3 class="font-semibold">Bluetooth Speaker</h3>
+            <button class="text-gray-400 hover:text-red-500">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+              </svg>
+            </button>
+          </div>
+          <div class="flex items-center mt-1">
+            <div class="flex text-yellow-400 text-sm">
+              ★★★★★ <span class="text-gray-600 ml-2">(256)</span>
+            </div>
+          </div>
+          <p class="text-sm text-gray-600 mt-2">360° surround sound with 20W output and IPX7 waterproof rating</p>
+          <div class="flex items-center text-xs text-gray-500 mt-3 space-x-4">
+            <span class="flex items-center">📦 <span class="ml-1">Free Shipping</span></span>
+            <span class="flex items-center">🔥 <span class="ml-1">Bestseller</span></span>
+          </div>
+          <div class="flex justify-between items-center mt-4">
+            <span class="text-lg font-semibold">$99</span>
+            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </div>
+      <!-- Product Card #7 -->
+      <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
+        <div class="bg-gray-200 h-64 flex items-center justify-center">
+          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="p-4">
+          <div class="flex justify-between items-start">
+            <h3 class="font-semibold">Smartphone</h3>
+            <button class="text-gray-400 hover:text-red-500">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+              </svg>
+            </button>
+          </div>
+          <div class="flex items-center mt-1">
+            <div class="flex text-yellow-400 text-sm">
+              ★★★★☆ <span class="text-gray-600 ml-2">(512)</span>
+            </div>
+          </div>
+          <p class="text-sm text-gray-600 mt-2">Latest model with high-resolution display and powerful performance</p>
+          <div class="flex items-center text-xs text-gray-500 mt-3 space-x-4">
+            <span class="flex items-center">📦 <span class="ml-1">Free Shipping</span></span>
+            <span class="flex items-center">🔥 <span class="ml-1">Limited Stock</span></span>
+          </div>
+          <div class="flex justify-between items-center mt-4">
+            <span class="text-lg font-semibold">$799</span>
+            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </div>
+      <!-- Product Card #8 -->
+      <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
+        <div class="bg-gray-200 h-64 flex items-center justify-center">
+          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="p-4">
+          <div class="flex justify-between items-start">
+            <h3 class="font-semibold">Laptop</h3>
+            <button class="text-gray-400 hover:text-red-500">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+              </svg>
+            </button>
+          </div>
+          <div class="flex items-center mt-1">
+            <div class="flex text-yellow-400 text-sm">
+              ★★★★☆ <span class="text-gray-600 ml-2">(512)</span>
+            </div>
+          </div>
+          <p class="text-sm text-gray-600 mt-2">Powerful and compact laptop for everyday use</p>
+          <div class="flex items-center text-xs text-gray-500 mt-3 space-x-4">
+            <span class="flex items-center">📦 <span class="ml-1">Free Shipping</span></span>
+            <span class="flex items-center">🔥 <span class="ml-1">Limited Stock</span></span>
+          </div>
+          <div class="flex justify-between items-center mt-4">
+            <span class="text-lg font-semibold">$999</span>
+            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </div>
+      <!-- Product Card #9 -->
+      <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
+        <div class="bg-gray-200 h-64 flex items-center justify-center">
+          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="p-4">
+          <div class="flex justify-between items-start">
+            <h3 class="font-semibold">Smartphone</h3>
+            <button class="text-gray-400 hover:text-red-500">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+              </svg>
+            </button>
+          </div>
+          <div class="flex items-center mt-1">
+            <div class="flex text-yellow-400 text-sm">
+              ★★★★☆ <span class="text-gray-600 ml-2">(512)</span>
+            </div>
+          </div>
+          <p class="text-sm text-gray-600 mt-2">Powerful and compact smartphone for everyday use</p>
+          <div class="flex items-center text-xs text-gray-500 mt-3 space-x-4">
+            <span class="flex items-center">📦 <span class="ml-1">Free Shipping</span></span>
+            <span class="flex items-center">🔥 <span class="ml-1">Limited Stock</span></span>
+          </div>
+          <div class="flex justify-between items-center mt-4">
+            <span class="text-lg font-semibold">$999</span>
+            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </body>
