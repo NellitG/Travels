@@ -52,7 +52,7 @@
               <span class="text-lg font-semibold">$199</span>
               <span class="text-sm text-gray-500 line-through ml-2">$249</span>
             </div>
-            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+            <button class="bg-green-500 hover:bg-orange-600 text-white text-sm px-4 py-2 rounded-md transition-colors">
               Add to Cart
             </button>
           </div>
@@ -85,7 +85,7 @@
           </div>
           <div class="flex justify-between items-center mt-4">
             <span class="text-lg font-semibold">$159</span>
-            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+            <button class="bg-green-500 hover:bg-orange-600 text-white text-sm px-4 py-2 rounded-md transition-colors">
               Add to Cart
             </button>
           </div>
@@ -118,7 +118,7 @@
           </div>
           <div class="flex justify-between items-center mt-4">
             <span class="text-lg font-semibold">$129</span>
-            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+            <button class="bg-green-500 hover:bg-orange-600 text-white text-sm px-4 py-2 rounded-md transition-colors">
               Add to Cart
             </button>
           </div>
@@ -151,7 +151,7 @@
     </div>
     <div class="flex justify-between items-center mt-4">
       <span class="text-lg font-semibold">$89</span>
-      <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+      <button class="bg-green-500 hover:bg-orange-600 text-white text-sm px-4 py-2 rounded-md transition-colors">
         Add to Cart
       </button>
     </div>
@@ -183,7 +183,7 @@
           </div>
           <div class="flex justify-between items-center mt-4">
             <span class="text-lg font-semibold">$159</span>
-            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+            <button class="bg-green-500 hover:bg-orange-600 text-white text-sm px-4 py-2 rounded-md transition-colors">
               Add to Cart
             </button>
           </div>
@@ -215,7 +215,7 @@
           </div>
           <div class="flex justify-between items-center mt-4">
             <span class="text-lg font-semibold">$99</span>
-            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+            <button class="bg-green-500 hover:bg-orange-600 text-white text-sm px-4 py-2 rounded-md transition-colors">
               Add to Cart
             </button>
           </div>
@@ -247,7 +247,7 @@
           </div>
           <div class="flex justify-between items-center mt-4">
             <span class="text-lg font-semibold">$799</span>
-            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+            <button class="bg-green-500 hover:bg-orange-600 text-white text-sm px-4 py-2 rounded-md transition-colors">
               Add to Cart
             </button>
           </div>
@@ -279,7 +279,7 @@
           </div>
           <div class="flex justify-between items-center mt-4">
             <span class="text-lg font-semibold">$999</span>
-            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+            <button class="bg-green-500 hover:bg-orange-600 text-white text-sm px-4 py-2 rounded-md transition-colors">
               Add to Cart
             </button>
           </div>
@@ -311,7 +311,7 @@
           </div>
           <div class="flex justify-between items-center mt-4">
             <span class="text-lg font-semibold">$999</span>
-            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+            <button class="bg-green-500 hover:bg-orange-600 text-white text-sm px-4 py-2 rounded-md transition-colors">
               Add to Cart
             </button>
           </div>
