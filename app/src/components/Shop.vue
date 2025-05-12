@@ -1,0 +1,171 @@
+<template>
+    <body class="bg-gray-50 p-6">
+  <div class="max-w-7xl mx-auto">
+    <!-- Header -->
+    <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-6 gap-4">
+      <div>
+        <h2 class="text-2xl font-bold">Popular Products</h2>
+        <p class="text-sm text-gray-600">
+          Explore our curated collection of premium products. Free shipping on orders over $50.
+        </p>
+      </div>
+      <div class="flex gap-2 w-full md:w-auto">
+        <input type="text" placeholder="Search products..." class="border px-3 py-2 rounded-md text-sm w-full md:w-auto" />
+        <select class="border px-3 py-2 rounded-md text-sm">
+          <option>Sort by</option>
+          <option>Price: Low to High</option>
+          <option>Price: High to Low</option>
+          <option>Rating</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Product Cards Grid -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Product Card #1 -->
+      <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
+        <div class="bg-gray-200 h-64 flex items-center justify-center relative">
+          <span class="absolute top-2 right-2 bg-red-500 text-white text-xs px-2 py-1 rounded-full">Sale</span>
+          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="p-4">
+          <div class="flex justify-between items-start">
+            <h3 class="font-semibold">Wireless Headphones</h3>
+            <button class="text-gray-400 hover:text-red-500">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+              </svg>
+            </button>
+          </div>
+          <div class="flex items-center mt-1">
+            <div class="flex text-yellow-400 text-sm">
+              ★★★★★ <span class="text-gray-600 ml-2">(128)</span>
+            </div>
+          </div>
+          <p class="text-sm text-gray-600 mt-2">Premium noise-canceling wireless headphones with 30-hour battery life</p>
+          <div class="flex items-center text-xs text-gray-500 mt-3 space-x-4">
+            <span class="flex items-center">📦 <span class="ml-1">Free Shipping</span></span>
+            <span class="flex items-center">🛒 <span class="ml-1">In Stock</span></span>
+          </div>
+          <div class="flex justify-between items-center mt-4">
+            <div>
+              <span class="text-lg font-semibold">$199</span>
+              <span class="text-sm text-gray-500 line-through ml-2">$249</span>
+            </div>
+            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Product Card #2 -->
+      <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
+        <div class="bg-gray-200 h-64 flex items-center justify-center">
+          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="p-4">
+          <div class="flex justify-between items-start">
+            <h3 class="font-semibold">Smart Watch Pro</h3>
+            <button class="text-gray-400 hover:text-red-500">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+              </svg>
+            </button>
+          </div>
+          <div class="flex items-center mt-1">
+            <div class="flex text-yellow-400 text-sm">
+              ★★★★☆ <span class="text-gray-600 ml-2">(89)</span>
+            </div>
+          </div>
+          <p class="text-sm text-gray-600 mt-2">Fitness tracking, heart rate monitoring, and smartphone notifications</p>
+          <div class="flex items-center text-xs text-gray-500 mt-3 space-x-4">
+            <span class="flex items-center">📦 <span class="ml-1">Free Shipping</span></span>
+            <span class="flex items-center">⏳ <span class="ml-1">Low Stock</span></span>
+          </div>
+          <div class="flex justify-between items-center mt-4">
+            <span class="text-lg font-semibold">$159</span>
+            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Product Card #3 -->
+      <div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
+        <div class="bg-gray-200 h-64 flex items-center justify-center">
+          <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div class="p-4">
+          <div class="flex justify-between items-start">
+            <h3 class="font-semibold">Bluetooth Speaker</h3>
+            <button class="text-gray-400 hover:text-red-500">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+              </svg>
+            </button>
+          </div>
+          <div class="flex items-center mt-1">
+            <div class="flex text-yellow-400 text-sm">
+              ★★★★★ <span class="text-gray-600 ml-2">(256)</span>
+            </div>
+          </div>
+          <p class="text-sm text-gray-600 mt-2">360° surround sound with 20W output and IPX7 waterproof rating</p>
+          <div class="flex items-center text-xs text-gray-500 mt-3 space-x-4">
+            <span class="flex items-center">📦 <span class="ml-1">Free Shipping</span></span>
+            <span class="flex items-center">🔥 <span class="ml-1">Bestseller</span></span>
+          </div>
+          <div class="flex justify-between items-center mt-4">
+            <span class="text-lg font-semibold">$129</span>
+            <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </div>
+      <!-- Product Card #4 -->
+<div class="border rounded-lg overflow-hidden shadow-sm bg-white hover:shadow-md transition-shadow">
+  <div class="bg-gray-200 h-64 flex items-center justify-center relative">
+    <span class="absolute top-2 left-2 bg-green-500 text-white text-xs px-2 py-1 rounded-full">New</span>
+    <svg class="w-10 h-10 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path d="M12 12l8-8m0 0H4m16 0v16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </div>
+  <div class="p-4">
+    <div class="flex justify-between items-start">
+      <h3 class="font-semibold">Premium Backpack</h3>
+      <button class="text-gray-400 hover:text-red-500">
+        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+        </svg>
+      </button>
+    </div>
+    <div class="flex items-center mt-1">
+      <div class="flex text-yellow-400 text-sm">
+        ★★★★☆ <span class="text-gray-600 ml-2">(64)</span>
+      </div>
+    </div>
+    <p class="text-sm text-gray-600 mt-2">Water-resistant travel backpack with USB charging port and anti-theft design</p>
+    <div class="flex items-center text-xs text-gray-500 mt-3 space-x-4">
+      <span class="flex items-center">🎒 <span class="ml-1">35L Capacity</span></span>
+      <span class="flex items-center">🔒 <span class="ml-1">Secure</span></span>
+    </div>
+    <div class="flex justify-between items-center mt-4">
+      <span class="text-lg font-semibold">$89</span>
+      <button class="bg-blue-600 hover:bg-blue-700 text-white text-sm px-4 py-2 rounded-md transition-colors">
+        Add to Cart
+      </button>
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
+</body>
+</template>
