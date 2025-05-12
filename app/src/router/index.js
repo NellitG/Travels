@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from "vue-router";
-import { HomeView, PostsView, DetailsView, LoginView, TravelPlanView, InspirationView } from "../views";
+import { HomeView, PostsView, DetailsView, LoginView, TravelPlanView, InspirationView, ShopView } from "../views";
 import { useAuthStore } from "../store";
 
 const routes = [
@@ -9,6 +9,7 @@ const routes = [
   { path: "/posts/:id", name: "details", component: DetailsView, props: true },
   {path:"/travelplan", name:"Travelplan", component: () => import("../views/TravelPlanView.vue")},
   {path:"/inspiration", name:"Inspiration", component: () => import("../views/InspirationView.vue")},
+  {path:"/shop", name:"Shop", component: () => import("../views/ShopView.vue")}
 ];
 
 /**Initialize here */
