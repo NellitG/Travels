@@ -1,5 +1,5 @@
 <template>
-    <section id="relume" class="px-[5%] py-16 md:py-24 lg:py-28 bg-orange-100">
+    <section id="relume" class="px-[5%] py-16 md:py-24 lg:py-28 bg-green-100">
   <div class="container">
     <div
       class="mb-12 grid grid-cols-1 items-start gap-5 md:mb-18 md:grid-cols-2 md:gap-x-12 lg:mb-20 lg:gap-x-20"
