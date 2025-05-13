@@ -5,7 +5,7 @@
         
         <!-- Logo on the left -->
         <div class="flex items-center">
-          <img class="h-8 mr-4" src="https://tailwindui.com/img/logos/158x48/tuple-logo-gray-900.svg" alt="Your Logo" width="100">
+          <img class="h-8 mr-4" src="https://airhex.com/images/airline-logos/tailwind-airlines.png" alt="Your Logo" width="100">
         </div>
 
         <!-- Centered Navbar Links -->
@@ -14,7 +14,7 @@
               <li><router-link to="/travelplan" class="hover:text-orange-700 font-medium text-gray-700">Travel Plan</router-link></li>
               <li><router-link to="/inspiration" class="hover:text-orange-700 font-medium text-gray-700">Inspiration</router-link></li>
               <li><router-link to="/shop" class="hover:text-orange-700 font-medium text-gray-700">Shop</router-link></li>
-              <li><router-link to="/blog" class="hover:text-orange-700 font-medium text-gray-700">Blog</router-link></li>
+              <!-- <li><router-link to="/blog" class="hover:text-orange-700 font-medium text-gray-700">Blog</router-link></li> -->
             </ul>
 
         <!-- Right side: Auth buttons + Hamburger -->
