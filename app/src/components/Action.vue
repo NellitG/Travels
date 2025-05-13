@@ -34,10 +34,7 @@
         </div>
 
         <p class="text-text-alternative md:text-md text-orange-500">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros
-          elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut
-          commodo diam libero vitae erat. Suspendisse varius enim in eros elementum tristique. Duis
-          cursus, mi quis viverra ornare, eros dolor interdum nulla.
+          There’s a whole planet waiting for you — from the snow-capped peaks of the Alps to the golden sands of the Sahara, from the buzzing streets of Tokyo to the peaceful villages of Tuscany. Every destination holds a story, a lesson, and a moment that could change your life.
         </p>
       </div>
     </div>
@@ -49,7 +46,7 @@
         loop
         muted
       >
-        <source src="https://d22po4pjz3o32e.cloudfront.net/placeholder-video.mp4" type="video/mp4" />
+        <source src="https://videos.pexels.com/video-files/3620476/3620476-sd_640_360_25fps.mp4" type="video/mp4" />
       </video>
       <div class="absolute inset-0 bg-black/50"></div>
     </div>
