@@ -91,8 +91,7 @@
                   </svg>
                 </div>
                 <blockquote class="md:text-md">
-                  &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius
-                  enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;
+                 An incredible adventure from start to finish! The itinerary was perfectly balanced between sightseeing and relaxation. The local food, the scenic views, and the warm hospitality made this trip truly special. I can't wait to book my next tour with them!
                 </blockquote>
                 <div
                   class="mt-5 flex w-full flex-col items-start gap-4 md:mt-6 md:w-auto md:flex-row md:items-center"
@@ -188,8 +187,7 @@
                   </svg>
                 </div>
                 <blockquote class="md:text-md">
-                  &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius
-                  enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;
+                 A seamless and enriching experience! The attention to detail and personal touches made me feel valued throughout the journey. Whether you're a first-time traveler or a seasoned explorer, this tour offers something unique for everyone.
                 </blockquote>
                 <div
                   class="mt-5 flex w-full flex-col items-start gap-4 md:mt-6 md:w-auto md:flex-row md:items-center"
@@ -289,8 +287,7 @@
                   </svg>
                 </div>
                 <blockquote class="md:text-md">
-                  &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius
-                  enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;
+                 This tour exceeded all my expectations! The guides were knowledgeable, friendly, and passionate, making every stop fascinating. From breathtaking landscapes to cultural insights, every moment was unforgettable. Highly recommend!
                 </blockquote>
                 <div
                   class="mt-5 flex w-full flex-col items-start gap-4 md:mt-6 md:w-auto md:flex-row md:items-center"
