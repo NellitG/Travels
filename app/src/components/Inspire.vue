@@ -1,43 +1,110 @@
 <template>
- <section class="bg-green-50 py-12">
-  <h2 class="text-3xl font-bold text-center mb-10">Learn Fun Facts About Countries</h2>
-  <p class="text-center text-gray-600 mb-10">Discover interesting facts about different countries around the world.</p>
-  <div class="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 px-4">
-    
-    <!-- Country Card -->
-    <div class="bg-white  shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300">
-      <img src="https://img.freepik.com/free-photo/empty-road-with-mountains_23-2149232171.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&semt=ais_hybrid&w=740" alt="Kenya" class="h-52 w-full object-cover">
-      <div class="p-6">
-        <h3 class="text-2xl font-semibold mb-2">Kenya</h3>
-        <p class="text-gray-600">Rich in culture and wildlife, with iconic landscapes like the Great Rift Valley.</p>
+ <section id="relume" class="px-[5%] py-16 md:py-24 lg:py-28">
+    <div class="container">
+      <header class="mx-auto mb-12 max-w-lg text-center md:mb-18 lg:mb-20">
+        <p class="mb-3 font-semibold md:mb-4">Portfolio</p>
+        <h2 class="mb-5 text-5xl font-bold md:mb-6 md:text-7xl lg:text-5xl">
+          Learn Fun Facts About Countries
+        </h2>
+        <p class="md:text-md">Discover the different country cultures and diversity</p>
+      </header>
+      <div class="columns-1 after:block md:columns-2 md:gap-x-8 lg:columns-3">
+        <article class="mb-8 break-inside-avoid">
+          <div class="mb-5 md:mb-6">
+            <a href="#"
+              ><img
+                src="https://img.freepik.com/free-photo/neolithic-period-lifestyle_23-2151786521.jpg?uid=R141465363&ga=GA1.1.487577296.1727511220&semt=ais_items_boosted&w=740"
+                class="w-full object-cover"
+                alt="Relume placeholder image"
+            /></a>
+          </div>
+          <h3 class="mb-2 text-xl font-bold md:text-2xl"><a href="#">Rwanda</a></h3>
+          <p>
+            Rwanda is known as the 'Land of a Thousand Hills' and is one of the cleanest countries in Africa.
+Rwandans participate in a national community cleanup day where everyone contributes to cleaning and improving their communities.
+          </p>
+        </article>
+        <article class="mb-8 break-inside-avoid">
+          <div class="mb-5 md:mb-6">
+            <a href="#"
+              ><img
+                src="https://img.freepik.com/premium-photo/illuminated-buildings-by-city-against-sky-dusk_1048944-9196149.jpg?uid=R141465363&ga=GA1.1.487577296.1727511220&semt=ais_items_boosted&w=740"
+                class="w-full object-cover"
+                alt="Relume placeholder image"
+            /></a>
+          </div>
+          <h3 class="mb-2 text-xl font-bold md:text-2xl"><a href="#">Australia</a></h3>
+          <p>
+            Australia is home to more than 10,000 beaches— so many that if you visited a new one every day, it would take over 27 years to see them all!
+          </p>
+        </article>
+        <article class="mb-8 break-inside-avoid">
+          <div class="mb-5 md:mb-6">
+            <a href="#"
+              ><img
+                src="https://img.freepik.com/free-photo/indian-city-buildings-scene_23-2151823136.jpg?uid=R141465363&ga=GA1.1.487577296.1727511220&semt=ais_items_boosted&w=740"
+                class="w-full object-cover"
+                alt="Relume placeholder image"
+            /></a>
+          </div>
+          <h3 class="mb-2 text-xl font-bold md:text-2xl"><a href="#">India</a></h3>
+          <p>
+            India has the world's highest cricket ground, located in Himachal Pradesh!
+          </p>        
+        </article>
+        <article class="mb-8 break-inside-avoid">
+          <div class="mb-5 md:mb-6">
+            <a href="#"
+              ><img
+                src="https://img.freepik.com/free-photo/view-quiver-trees-forest-with-beautiful-sky-sunset-twilight-sky-scene-keetmanshoop-namibia_1150-21606.jpg?uid=R141465363&ga=GA1.1.487577296.1727511220&semt=ais_items_boosted&w=740"
+                class="w-full object-cover"
+                alt="Relume placeholder image"
+            /></a>
+          </div>
+          <h3 class="mb-2 text-xl font-bold md:text-2xl"><a href="#">South Africa</a></h3>
+          <p>
+            South Africa is unique for having three capital cities: Pretoria (administrative), Cape Town (legislative), and Bloemfontein (judicial).
+          </p>
+        </article>
+        <article class="mb-8 break-inside-avoid">
+          <div class="mb-5 md:mb-6">
+            <a href="#"
+              ><img
+                src="https://img.freepik.com/premium-photo/giraffe-standing-land-against-mountain-sunset_1048944-10151247.jpg?uid=R141465363&ga=GA1.1.487577296.1727511220&semt=ais_items_boosted&w=740"
+                class="w-full object-cover"
+                alt="Relume placeholder image"
+            /></a>
+          </div>
+          <h3 class="mb-2 text-xl font-bold md:text-2xl"><a href="#">Kenya</a></h3>
+          <p>
+             Kenya is the birthplace of the modern safari and is home to the Great Wildebeest Migration, one of the Seven New Wonders of the World.
+          </p>
+        </article>
+        <article class="mb-8 break-inside-avoid">
+          <div class="mb-5 md:mb-6">
+            <a href="#"
+              ><img
+                src="https://img.freepik.com/free-photo/great-wall_1359-1016.jpg?uid=R141465363&ga=GA1.1.487577296.1727511220&semt=ais_items_boosted&w=740"
+                class="w-full object-cover"
+                alt="Relume placeholder image"
+            /></a>
+          </div>
+          <h3 class="mb-2 text-xl font-bold md:text-2xl"><a href="#">China</a></h3>
+          <p>
+            China is home to the world’s longest man-made structure—the Great Wall of China— stretching over 21,000 kilometers!
+          </p>
+        </article>
       </div>
+      <footer class="mt-8 flex justify-center md:mt-18 lg:mt-20">
+        <button
+          class="focus-visible:ring-border-primary inline-flex gap-3 items-center justify-center whitespace-nowrap ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-border-primary text-text-primary bg-background-primary px-6 py-3"
+          title="View all"
+        >
+          View all
+        </button>
+      </footer>
     </div>
-
-    <!-- Country Card -->
-    <div class="bg-white  shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300">
-      <img src="https://img.freepik.com/free-photo/empty-road-with-mountains_23-2149232171.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&semt=ais_hybrid&w=740" alt="Japan" class="h-52 w-full object-cover">
-      <div class="p-6">
-        <h3 class="text-2xl font-semibold mb-2">Japan</h3>
-        <p class="text-gray-600">A blend of tradition and technology, famous for cherry blossoms and cuisine.</p>
-      </div>
-    </div>
-
-    <!-- Country Card -->
-    <div class="bg-white  shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300">
-      <img src="https://img.freepik.com/free-photo/empty-road-with-mountains_23-2149232171.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&semt=ais_hybrid&w=740" alt="Italy" class="h-52 w-full object-cover">
-      <div class="p-6">
-        <h3 class="text-2xl font-semibold mb-2">Italy</h3>
-        <p class="text-gray-600">Known for ancient history, Renaissance art, and world-class food.</p>
-      </div>
-    </div>
-<!-- see all countries button -->
- <div class="mt-10 text-center ">
-    <a href="/all-countries" class="inline-block px-6 py-3 text-black border-2 hover:bg-orange-600 text-lg font-medium transition-colors duration-300">
-      See All
-    </a>
-  </div>
-
-  </div>
-</section>
+  </section>
+  
 
 </template>
