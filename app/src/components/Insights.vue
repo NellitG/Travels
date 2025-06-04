@@ -7,10 +7,11 @@
         <div class="md:mr-12 lg:mr-0">
           <div class="w-full max-w-lg">
             <!-- <p class="mb-3 font-semibold md:mb-4">Blog</p> -->
-            <h2 class="mb-3 text-5xl font-bold md:mb-4 md:text-7xl lg:text-5xl">
+            <h2 class="mb-3 text-5xl font-bold md:mb-4 md:text-7xl lg:text-5xl" data-aos="fade-up" data-aos-duration="1000">
               Get Inspired to go to the next level
             </h2>
-            <p class="md:text-md">Do you want to travel but don't know where to go? We've got you covered.</p>
+            <p class="md:text-md" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
+              Do you want to travel but don't know where to go? We've got you covered.</p>
           </div>
         </div>
         <div class="hidden md:flex">
