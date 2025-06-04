@@ -1,5 +1,5 @@
 <template>
-    <section id="relume" class="overflow-hidden px-[5%] py-16 md:py-24 lg:py-12 ">
+    <section id="relume" class="overflow-hidden px-[5%] py-16 md:py-24 lg:py-12 bg-orange-100">
     <div class="container">
       <div class="rb-12 mb-12 md:mb-18 lg:mb-20">
         <h2 class="rb-5 mb-5 text-5xl font-semibold md:mb-6 md:text-7xl lg:text-5xl">
