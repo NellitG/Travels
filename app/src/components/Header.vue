@@ -19,7 +19,7 @@
 
         <!-- Right side: Auth buttons + Hamburger -->
         <div class="flex items-center space-x-4">
-          <a href="/signup" class="px-4 py-2 hover:bg-green-500 text-black rounded-lg">Sign Up</a>
+          <a href="/SignUp" class="px-4 py-2 hover:bg-green-500 border border-green-500 text-black rounded-lg">Sign Up</a>
           <a href="/login" class="px-4 py-2 bg-black text-white rounded-lg">Login</a>
   
           <!-- Hamburger icon (mobile only) -->
