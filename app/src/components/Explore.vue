@@ -5,7 +5,7 @@
     <div class="flex justify-between items-center mb-6">
       <h2 class="text-3xl md:text-4xl font-semibold">Top Destinations</h2>
       <button class="text-sm md:text-base font-medium text-white bg-black hover:bg-gray-800 px-4 py-2 rounded-full">
-        <a href="/destinations" class="flex items">
+        <a href="/Destination" class="flex items">
         Explore all destinations
         </a>
       </button>
