@@ -20,9 +20,20 @@
             </div>
           </div>
           <div class="mt-6 flex flex-wrap items-center gap-4 md:mt-8">
-            <button class="hover:bg-orange-500 border border-border-primary text-text-primary bg-background-primary px-6 py-3">Learn More</button>
-            <button class="text-text-primary gap-2 p-0">Sign Up →</button>
-          </div>
+    <router-link
+      to="/learn-more"
+      class="hover:bg-orange-500 border border-border-primary text-text-primary bg-background-primary px-6 py-3 inline-block"
+    >
+      Learn More
+    </router-link>
+    
+    <router-link
+      to="/SignUp"
+      class="text-text-primary gap-2 p-0 inline-flex items-center"
+    >
+      Sign Up →
+    </router-link>
+  </div>
         </div>
         <div ref="imageContent">
           <img
