@@ -9,18 +9,21 @@
         Discover the world with Wanderly's expertly crafted travel plans. Each itinerary is designed to inspire your wanderlust and simplify your journey.
       </p>
       <div class="mt-6 flex flex-wrap gap-4 md:mt-8">
-        <button
-          class="bg-orange-500 focus-visible:ring-border-primary inline-flex gap-3 items-center justify-center whitespace-nowrap ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-border-primary bg-background-alternative text-text-alternative px-6 py-3"
-          title="Button"
-        >
-          Learn More</button
-        ><button
-          class="hover:bg-black hover:text-white focus-visible:ring-border-primary inline-flex gap-3 items-center justify-center whitespace-nowrap ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-border-primary text-text-primary bg-background-primary px-6 py-3"
-          title="Button"
-        >
-          Sign Up
-        </button>
-      </div>
+    <router-link
+      to="/learn-more"
+      class="bg-orange-500 focus-visible:ring-border-primary inline-flex gap-3 items-center justify-center whitespace-nowrap ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-border-primary bg-background-alternative text-text-alternative px-6 py-3"
+      title="Learn More"
+    >
+      Learn More
+    </router-link>
+    <router-link
+      to="/SignUp"
+      class="hover:bg-black hover:text-white focus-visible:ring-border-primary inline-flex gap-3 items-center justify-center whitespace-nowrap ring-offset-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-border-primary text-text-primary bg-background-primary px-6 py-3"
+      title="Sign Up"
+    >
+      Sign Up
+    </router-link>
+  </div>
     </div>
   </div>
 </section>
