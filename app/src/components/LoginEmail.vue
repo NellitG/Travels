@@ -103,14 +103,14 @@
               <label
                 for="email"
                 class="mb-2 inline-block text-xs font-medium uppercase text-gray-700"
-                >Phone</label
+                >Email</label
               >
               <input
                 type="text"
                 class="block w-full cursor-text appearance-none rounded-md border border-gray-400 bg--100 py-2 px-3 text-sm outline-none focus:border-orange-500 focus:bg-white focus:text-gray-600 focus:shadow"
                 id="email"
                 name="email-username"
-                placeholder="Enter your email or username"
+                placeholder="Enter your email"
               />
             </div>
             <div class="mb-4">
