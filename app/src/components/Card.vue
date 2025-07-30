@@ -1,5 +1,5 @@
 <template>
-  <section id="relume" class="px-[5%] py-16 md:py-24 lg:py-28" ref="relumeSection">
+  <section id="relume" class="px-[5%] py-16 md:py-24 lg:py-28 bg-green-100" ref="relumeSection">
     <div class="container">
       <div class="flex flex-col items-center">
         <div class="rb-12 mb-12 text-center md:mb-18 lg:mb-20 heading">
