@@ -1,17 +1,10 @@
-Travel with Tusafiri
-
-Choose Your Destination 
+**Shop Navbar**
 
 
+<img width="1342" height="646" alt="Shop" src="https://github.com/user-attachments/assets/36838d3f-6ca2-4414-97c4-d97d6823faa0" />
 
-# Vue-learn
-Let's build with vue
 
-## Initialising the repository
-> cd app
-> npm install
-> npm run dev
+**Inspiration Navbar**
 
-=> Open a new terminal and initialize the json server
-> npm install -g json-server
-> json-server --watch data/db.json
+
+<img width="1215" height="592" alt="Countries" src="https://github.com/user-attachments/assets/49fcc0a7-ea59-4342-984a-89085f102efe" />
