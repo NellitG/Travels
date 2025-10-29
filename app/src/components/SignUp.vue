@@ -100,9 +100,9 @@
             Please sign-up to access your account
           </p>
 
-          <form id="" class="mb-4" action="#" method="POST">
+          <form id="" class="mb-4" action="https://getform.io/f/agdjrngb" method="POST">
             <div class="mb-4">
-              <label
+              <label 
                 for="email"
                 class="mb-2 inline-block text-xs font-medium uppercase text-gray-700"
                 >Name</label
@@ -112,7 +112,7 @@
                 class="block w-full cursor-text appearance-none rounded-md border border-gray-400 bg--100 py-2 px-3 text-sm outline-none focus:border-green-500 focus:bg-white focus:text-gray-600 focus:shadow"
                 id="email"
                 name="email-username"
-                placeholder="Enter your rname"
+                placeholder="Enter your name"
               />
             </div>
             <div class="mb-4">
