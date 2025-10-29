@@ -98,7 +98,7 @@
           </h4>
           <p class="mb-6 text-gray-500">Please Login to access your account</p>
 
-          <form id="" class="mb-4" action="#" method="POST">
+          <form id="" class="mb-4" action="https://getform.io/f/agdjrngb" method="POST">
             <div class="mb-4">
               <label
                 for="email"
